@@ -18,6 +18,10 @@ a:hover{
    margin-bottom: 1rem;
 }
 
+.input-item::placeholder{
+    font-size: 12px;
+}
+
 .rounded-number{
     /* position: relative; */
     display: inline-flex;
